@@ -1,0 +1,3 @@
+/*
+    Create a template class to ask there numbers from users and display the biggest one
+*/
